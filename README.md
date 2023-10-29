@@ -1,8 +1,5 @@
-# debian-wiki-news-parser
-Debian Wiki News Parser: Stay updated with the latest Debian community news effortlessly. This Python script scrapes Debian Wiki, converts updates to Markdown format, ensuring easy access and sharing. Your go-to tool for staying in the loop with Debian's vibrant open-source community
 
-
-Project Title: Debian Wiki News Parser
+**Project Title: Debian Wiki News Parser**
 
 Description:
 
@@ -17,7 +14,8 @@ How to Use:
 
 1. Clone the Repository: Clone this repository to your local machine.
 2. Install the required Python dependencies:
-	pip install requests beautifulsoup4
+
+	**pip install requests beautifulsoup4**
 
 Run the Script: Execute the Python script to fetch and save Debian Wiki News in Markdown format.
 This will create a file called `debian_news.md` containing the latest news item.
